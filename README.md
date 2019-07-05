@@ -8,5 +8,5 @@ I will try to upload some novel techniques for packaging and tooling of python p
 ## tools and techniques
 
 - [x] .gitignore file
-- [ ] make file
-- [ ] setup.py
+- [x] make file
+- [x] setup.py
