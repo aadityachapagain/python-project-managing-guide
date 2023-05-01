@@ -21,7 +21,7 @@ setuptools.setup(
 
     # All versions are fixed just for case. Once in while try to check for new versions.
     install_requires=[
-        'flask==1.0.2',
+        'flask==2.3.2',
         'psycopg2==2.7.5',
     ],
 
